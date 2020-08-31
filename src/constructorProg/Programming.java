@@ -9,7 +9,7 @@ public class Programming {
 	
 	void learn()
 	{
-		System.out.println("Passed any string : ");
+		System.out.println("Do you want to learn any language like Java, C, Angular, Asp.net: ");
 		String ans=sc.next();
 		if(ans!=null)
 		{
